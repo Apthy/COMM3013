@@ -5,6 +5,8 @@ channels:
 dependencies:
   - ipycanvas
   - pytorch
+  - torchvision
+  - torchaudio
   - scikit-learn
   - matplotlib
   - pandas
